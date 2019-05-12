@@ -1,2 +1,1 @@
-# AWS-Cloud-Practioner
-AWS Certification
+# AWS Cloud Practioner Certification
