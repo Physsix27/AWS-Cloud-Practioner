@@ -1,5 +1,8 @@
 Practice Exam Questions
-————————————  1.	What is AWS responsible for in the Responsibility Model? (Select Two) 
+————————————————————————
+
+1.	What is AWS responsible for in the Responsibility Model? (Select Two)
+
 A.	Customer Data
 B	Operating System
 C.	Firewall
