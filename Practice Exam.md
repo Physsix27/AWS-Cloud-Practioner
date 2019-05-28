@@ -7,7 +7,7 @@ A.  Customer Data
 B.  Operating System
 C.  Firewall
 D.  Heating and Cooling of Data Center  √
-E.  Network	
+E.  Network
 F.  Storage √
 
 2.  Which is NOT necessarily a Cloud Trail feature?
